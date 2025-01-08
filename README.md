@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,9 +25,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
