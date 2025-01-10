@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0763-special-binary-string) |
 ## Array
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0214-shortest-palindrome](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0394-decode-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0763-special-binary-string) |
 ## Backtracking
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
