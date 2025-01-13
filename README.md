@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-special-binary-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0763-special-binary-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2226-rings-and-rods) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Backtracking
@@ -85,5 +87,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2226-rings-and-rods) |
+## Counting
+|  |
+| ------- |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 <!---LeetCode Topics End-->
