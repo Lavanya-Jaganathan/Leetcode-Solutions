@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0886-score-of-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0886-score-of-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
