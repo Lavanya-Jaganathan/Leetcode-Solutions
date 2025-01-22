@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-special-binary-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0763-special-binary-string) |
 | [0886-score-of-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Memoization
 |  |
