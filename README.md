@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0214-shortest-palindrome](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0394-decode-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-special-binary-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0763-special-binary-string) |
 | [0886-score-of-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0516-longest-palindromic-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Memoization
