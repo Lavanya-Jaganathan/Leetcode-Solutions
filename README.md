@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2226-rings-and-rods) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2687-lexicographically-smallest-beautiful-string) |
@@ -107,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2226-rings-and-rods) |
 ## Counting
 |  |
 | ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Dynamic Programming
 |  |
