@@ -26,7 +26,7 @@ int solve(int i,int j,int m,int n,vector<vector<int>>&G,vector<vector<int>>&dp)
     int uniquePathsWithObstacles(vector<vector<int>>& G) {
         int m=G.size();
         int n=G[0].size();
-        vector<vector<int>> dp(m+1,vector<int>(n+1,-1));
+        vector<vector<int>> dp(m,vector<int>(n,-1));
         return solve(0,0,m,n,G,dp);
         
     }
