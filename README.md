@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0376-wiggle-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
+| [1129-longest-string-chain](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [1129-longest-string-chain](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 ## String
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-special-binary-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0763-special-binary-string) |
 | [0886-score-of-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1129-longest-string-chain](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1129-longest-string-chain](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2226-rings-and-rods) |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0376-wiggle-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [1129-longest-string-chain](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1236-n-th-tribonacci-number](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -140,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0062-unique-paths) |
+## Sorting
+|  |
+| ------- |
+| [1129-longest-string-chain](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 <!---LeetCode Topics End-->
