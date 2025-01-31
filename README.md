@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0403-frog-jump) |
+| [0967-minimum-falling-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1105-uncrossed-lines](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0221-maximal-square) |
+| [0967-minimum-falling-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0403-frog-jump) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0639-decode-ways-ii](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0639-decode-ways-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1105-uncrossed-lines](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1236-n-th-tribonacci-number](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
