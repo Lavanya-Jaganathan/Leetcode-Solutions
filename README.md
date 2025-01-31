@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0221-maximal-square](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0403-frog-jump) |
 | [1105-uncrossed-lines](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1105-uncrossed-lines) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0221-maximal-square](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0221-maximal-square) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0120-triangle](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0221-maximal-square](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0403-frog-jump) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
