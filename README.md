@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0403-frog-jump) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
+| [0139-word-break](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0214-shortest-palindrome](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0139-word-break) |
 | [1129-longest-string-chain](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0120-triangle](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0403-frog-jump) |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
@@ -165,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1129-longest-string-chain](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
