@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Union Find
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Topological Sort
 |  |
 | ------- |
