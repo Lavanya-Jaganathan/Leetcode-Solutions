@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
+| [1300-critical-connections-in-a-network](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1300-critical-connections-in-a-network) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Matrix
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1300-critical-connections-in-a-network](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1300-critical-connections-in-a-network) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Topological Sort
 |  |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1492-time-needed-to-inform-all-employees) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
