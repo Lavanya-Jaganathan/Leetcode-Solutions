@@ -74,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
+| [0813-all-paths-from-source-to-target](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0547-number-of-provinces](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0813-all-paths-from-source-to-target](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
 | [1300-critical-connections-in-a-network](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1300-critical-connections-in-a-network) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0813-all-paths-from-source-to-target](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0813-all-paths-from-source-to-target](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1229-shortest-path-with-alternating-colors) |
