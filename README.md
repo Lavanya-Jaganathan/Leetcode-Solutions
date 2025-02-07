@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Two Pointers
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0967-minimum-falling-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Union Find
 |  |
 | ------- |
