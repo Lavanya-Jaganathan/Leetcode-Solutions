@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0403-frog-jump) |
 | [0967-minimum-falling-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0971-shortest-bridge) |
+| [1073-number-of-enclaves](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1105-uncrossed-lines](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0971-shortest-bridge](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0971-shortest-bridge) |
+| [1073-number-of-enclaves](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1300-critical-connections-in-a-network](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1300-critical-connections-in-a-network) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0967-minimum-falling-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0971-shortest-bridge) |
+| [1073-number-of-enclaves](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Rolling Hash
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0971-shortest-bridge](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0971-shortest-bridge) |
+| [1073-number-of-enclaves](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
