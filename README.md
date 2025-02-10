@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0403-frog-jump) |
+| [0695-max-area-of-island](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0221-maximal-square) |
+| [0695-max-area-of-island](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
