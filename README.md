@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0063-unique-paths-ii](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 ## Sliding Window
 |  |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1300-critical-connections-in-a-network) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
