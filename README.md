@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0139-word-break) |
 | [1129-longest-string-chain](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
