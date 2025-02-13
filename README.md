@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0139-word-break) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0068-text-justification](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
