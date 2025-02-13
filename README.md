@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0813-all-paths-from-source-to-target](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
