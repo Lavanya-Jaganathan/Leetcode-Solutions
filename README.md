@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0139-word-break) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0886-score-of-parentheses](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0886-score-of-parentheses) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
