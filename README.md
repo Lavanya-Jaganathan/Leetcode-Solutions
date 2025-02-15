@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0135-candy](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0221-maximal-square) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Lavanya-Jaganathan/Leetcode-Solutions/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Binary Search
