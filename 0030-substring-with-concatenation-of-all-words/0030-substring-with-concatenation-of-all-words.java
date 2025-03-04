@@ -1,30 +1,41 @@
 class Solution {
     public List<Integer> findSubstring(String s, String[] words) {
-        final Map<String, Integer> counts = new HashMap<>();
-        for (final String word : words) {
-            counts.put(word, counts.getOrDefault(word, 0) + 1);
+    List<Integer> ans = new ArrayList<>();
+        int n1=words[0].length();
+        int n2=s.length();
+
+        Map<String,Integer> map1=new HashMap<>();
+        for(String ch:words){
+            map1.put(ch,map1.getOrDefault(ch,0)+1);
         }
-        final List<Integer> indexes = new ArrayList<>();
-        final int n = s.length(), num = words.length, len = words[0].length();
-        for (int i = 0; i < n - num * len + 1; i++) {
-            final Map<String, Integer> seen = new HashMap<>();
-            int j = 0;
-            while (j < num) {
-                final String word = s.substring(i + j * len, i + (j + 1) * len);
-                if (counts.containsKey(word)) {
-                    seen.put(word, seen.getOrDefault(word, 0) + 1);
-                    if (seen.get(word) > counts.getOrDefault(word, 0)) {
-                        break;
+
+        for(int i=0;i<n1;i++){
+            int left=i,j=i,c=0;
+            Map<String,Integer> map2=new HashMap<>();
+            while(j+n1<=n2){
+                String word1=s.substring(j,j+n1);
+                j+=n1;
+                if(map1.containsKey(word1)) {
+                    map2.put(word1,map2.getOrDefault(word1,0)+1);
+                    c++;
+                    
+                    while(map2.get(word1)>map1.get(word1)) {
+                        String word2=s.substring(left,left+n1);
+                        map2.put(word2,map2.get(word2)-1);
+                        left+=n1;
+                        c--;
                     }
-                } else {
-                    break;
+                    
+                   if (c==words.length) ans.add(left);
                 }
-                j++;
-            }
-            if (j == num) {
-                indexes.add(i);
+                   else{
+                      map2.clear();
+                      c=0;
+                      left=j;
+                }
             }
         }
-        return indexes;
+    
+        return ans;    
     }
 }
